@@ -113,7 +113,7 @@ class MusicApp extends React.Component {
     const clickX = e.nativeEvent.offsetX;
     const duration = this.audio.current.duration;
     console.log(width, clickX, duration, typeof duration);
-    if (duration === NaN) return;
+    if (isNaN(duration)) return;
     else this.audio.current.currentTime = (clickX / width) * duration;
   };
 
