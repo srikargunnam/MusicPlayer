@@ -150,4 +150,90 @@ export const albums = [
       },
     ],
   },
+  {
+    albumName: "Shyam Singha Roy – (2021)",
+    imdbLink: "https://www.imdb.com/title/tt13349716/",
+    albumCover:
+      "https://naasongs.co/wp-content/uploads/2021/12/Shyam-Singha-Roy-2021-250x250.jpg",
+    data: [
+      {
+        "Rise of Shyam":
+          "https://s10.naasongs.download/texr141kle2kjew/Shyam%20Singh%20Roy%20-%20(2021)/[iSongs.info]%2001%20-%20Rise%20of%20Shyam.mp3",
+      },
+      {
+        "Edo Edo":
+          "https://s10.naasongs.download/texr141kle2kjew/Shyam%20Singh%20Roy%20-%20(2021)/[iSongs.info]%2002%20-%20Edo%20Edo.mp3",
+      },
+      {
+        "Sirivennela":
+          "https://s10.naasongs.download/texr141kle2kjew/Shyam%20Singh%20Roy%20-%20(2021)/[iSongs.info]%2003%20-%20Sirivennela.mp3",
+      },
+      {
+        Pranavalaya:
+          "https://s10.naasongs.download/texr141kle2kjew/Shyam%20Singh%20Roy%20-%20(2021)/[iSongs.info]%2004%20-%20Pranavalaya.mp3",
+      },
+      {
+        Tara:
+          "https://s10.naasongs.download/texr141kle2kjew/Shyam%20Singh%20Roy%20-%20(2021)/[iSongs.info]%2005%20-%20Tara.mp3",
+      },
+    ],
+  },
+  {
+    albumName: "DJ Tillu – (2022)",
+    imdbLink: "https://www.imdb.com/title/tt13245502/",
+    albumCover:
+      "https://naasongs.to/wp-content/uploads/2022/01/DJ-Tillu-2022-Tillu-Anna-DJ-Pedithe-250x250.jpg",
+    data: [
+      {
+        "Tillu Anna DJ Pedithe":
+          "https://s10.naasongs.download/texr141kle2kjew/DJ%20Tillu%20-%20(2022)/[iSongs.info]%2001%20-%20Tillu%20Anna%20DJ%20Pedithe.mp3",
+      },
+      {
+        "Pataas Pilla":
+          "https://s10.naasongs.download/texr141kle2kjew/DJ%20Tillu%20-%20(2022)/[iSongs.info]%2002%20-%20Pataas%20Pilla.mp3",
+      },
+      {
+        "Nuvvala":
+          "https://s10.naasongs.download/texr141kle2kjew/DJ%20Tillu%20-%20(2022)/[iSongs.info]%2003%20-%20Nuvvala.mp3",
+      },
+      {
+        "Nuvvala (Female Version)":
+          "https://s10.naasongs.download/texr141kle2kjew/DJ%20Tillu%20-%20(2022)/[iSongs.info]%2004%20-%20Nuvvala%20(Female%20Version).mp3",
+      },
+    ],
+  },
+  {
+    albumName: "Love Story – (2021)",
+    imdbLink: "https://www.imdb.com/title/tt11384004/",
+    albumCover:
+      "https://naasongs.co/wp-content/uploads/2021/09/Love-Story-2021-250x250.jpg",
+    data: [
+      {
+        "Ay Pilla":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2001%20-%20Ay%20Pilla.mp3",
+      },
+      {
+        "Nee Chitram Choosi":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2002%20-%20Nee%20Chitram%20Choosi.mp3",
+      },
+      {
+        "Saranga Dariya":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2003%20-%20SarangaDariya.mp3",
+      },
+      {
+        "Evo Evo Kalale":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2004%20-Evo%20Evo%20Kalale.mp3",
+      },
+      {
+        "Winner Winner Bro":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2005%20-%20Winner%20Winner%20Bro.mp3",
+      },
+      {
+        "Mutyala Chemma Chakka":
+          "https://s9.naasongs.download/tely138nkr2ncsa/Love%20Story%20-%20(2020)/[iSongs.info]%2006%20-%20Mutyala%20Chemma%20Chakka.mp3",
+      },
+    ],
+  },
 ];
+
+
