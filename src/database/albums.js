@@ -1,6 +1,7 @@
 export const albums = [
   {
     albumName: "Pushpa: The Rise - (2021)",
+    imdbLink: "https://www.imdb.com/title/tt9389998/",
     albumCover:
       "https://naasongs.co/wp-content/uploads/2021/11/Pushpa-The-Raise-2021-Eyy-Bidda-Idhi-Naa-Adda-250x250.jpg",
     data: [
@@ -28,6 +29,7 @@ export const albums = [
   },
   {
     albumName: "Bheemla Nayak - (2021)",
+    imdbLink: "https://www.imdb.com/title/tt14209560/",
     albumCover:
       "https://naasongs.co/wp-content/uploads/2021/12/Bheemla-Nayak-2021-Adavi-Thalli-Maata-250x250.jpg",
     data: [
@@ -51,6 +53,7 @@ export const albums = [
   },
   {
     albumName: "Acharya - (2021)",
+    imdbLink: "https://www.imdb.com/title/tt11563070/",
     albumCover:
       "https://static.toiimg.com/thumb/msid-77783570,imgsize-259811,width-800,height-600,resizemode-75/77783570.jpg",
     data: [
@@ -66,6 +69,7 @@ export const albums = [
   },
   {
     albumName: "RRR – (2021)",
+    imdbLink: "https://www.imdb.com/title/tt8178634/",
     albumCover: "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
     data: [
       {
@@ -96,6 +100,7 @@ export const albums = [
   },
   {
     albumName: "Most Eligible Bachelor – (2021)",
+    imdbLink: "https://www.imdb.com/title/tt11725680/",
     albumCover:
       "https://naasongs.co/wp-content/uploads/2021/10/Most-Eligible-Bachelor-2021-250x250.jpg",
     data: [
@@ -123,6 +128,7 @@ export const albums = [
   },
   {
     albumName: "Radhe Shyam – (2022)",
+    imdbLink: "https://www.imdb.com/title/tt8960382/",
     albumCover:
       "https://cdn.123telugu.com/content/wp-content/uploads/2021/12/Radhe-Shyam-m.jpg",
     data: [
