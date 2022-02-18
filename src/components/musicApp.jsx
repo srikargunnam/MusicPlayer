@@ -72,6 +72,7 @@ class MusicApp extends React.Component {
   };
 
   prevSong = () => {
+    this.progress.current.style.width = `0%`;
     let { songIndex } = this;
     songIndex--;
     if (songIndex < 0) songIndex = albums[this.albumIndex].data.length - 1;
@@ -82,6 +83,7 @@ class MusicApp extends React.Component {
   };
 
   nextSong = () => {
+    this.progress.current.style.width = `0%`;
     let { songIndex } = this;
     songIndex++;
     if (songIndex > albums[this.albumIndex].data.length - 1) songIndex = 0;
