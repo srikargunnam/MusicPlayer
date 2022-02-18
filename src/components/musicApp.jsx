@@ -16,6 +16,7 @@ class MusicApp extends React.Component {
 
   durationArray = [];
 
+  // reference creations
   audio = React.createRef();
   progress = React.createRef();
   volumeBar = React.createRef();
@@ -156,6 +157,9 @@ class MusicApp extends React.Component {
         (this.audio.current.volume / 1) * 100
       }%`;
     }
+
+    if (e.ctrlKey && e.key === "ArrowLeft") this.prevAlbum();
+    if (e.ctrlKey && e.key === "ArrowRight") this.nextAlbum();
 
     if (e.key === " ") this.playPauseToggle();
   };
