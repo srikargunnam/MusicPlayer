@@ -5,16 +5,13 @@
 
 - Table of contents
   - [How I built this](#how-i-built-this)
-  - [screenshots](#screenshots)  
+  - [Live Site](#live-site) 
 
 ## How I built this
 
 I started with building a basic web app to play songs, then by adding multiple features one on the other, this is what the outcome, but i don't say this is final, because there are lot of bugs to be fixed
 
-## screenshots
+## Live Site
 
-### Desktop Preview
-![](src/resources/desktop-preview.png)
+### [Click here](https://srikargunnam.github.io/musicplayer/)
 
-### Mobile Preview
-![](src/resources/mobile-preview.png)
